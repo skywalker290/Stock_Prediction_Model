@@ -1,0 +1,16 @@
+
+LINKS:
+
+https://www.alpharithms.com/calculating-support-resistance-in-python-using-k-means-clustering-101517/
+https://www.alpharithms.com/stochastic-oscillator-in-python-483214/
+https://www.alpharithms.com/python-financial-data-491110/
+https://thepythoncode.com/article/introduction-to-finance-and-technical-indicators-with-python
+
+^PRANTIK SIR
+
+Implementing Technical Indicators in Machine Learning model in Python | Towards Data Science
+Building a comprehensive set of Technical Indicators in Python for quantitative trading | by Modishubham | Towards Data Science
+
+^PAAKHI
+
+
